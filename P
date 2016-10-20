@@ -1,0 +1,6 @@
+introduce el primer numero
+220
+introduce el segundo numero
+284
+Los numeros 220 y 284 son amigos
+BUILD SUCCESSFUL (total time: 9 seconds)
